@@ -1,3 +1,6 @@
 L'histoire debuta dans un restaurant. Notre heros s'apelle le gentil Fabien
+<<<<<<< HEAD
 Lorsque soudain un malotrus s'approcha derriere Fabien et vint le 
 frapper a l'epaule.
+=======
+>>>>>>> conflit
